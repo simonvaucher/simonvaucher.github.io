@@ -24,5 +24,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/25871014984/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1529/25871014984_7f779b6703_k.jpg" width="2048" height="1365" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1529/25871014984_7f779b6703_k.jpg" width="100%" alt="Untitled">
 
