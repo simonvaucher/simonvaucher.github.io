@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day four (2): balance"
-date:   2018-07-05 11:04:00 +0200
+title:  "Day five: balance"
+date:   2018-07-06 11:04:00 +0200
 categories: blog
 ---
 
