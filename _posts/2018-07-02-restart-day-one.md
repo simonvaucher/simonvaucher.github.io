@@ -16,5 +16,7 @@ Funny things is that the hidden/unspoken truth about weight loss is that in the 
 OK, going nuts. Eating less. Let's see if we can manage to make any change before the end of the year.
 <br/>
 <br/>
-<blockquote>Testing an embedded image from flickr - anything but those dreadful automated hipster gifs from Medium (shudder...)</blockquote>
+
+> Testing an embedded image from flickr - anything but those dreadful automated hipster gifs from Medium (shudder...)
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/33000451874/in/album-72157680475929620/" title="Untitled"><img src="https://farm3.staticflickr.com/2822/33000451874_0c0d50f965_k.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

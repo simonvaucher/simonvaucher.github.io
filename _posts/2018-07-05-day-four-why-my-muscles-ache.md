@@ -8,10 +8,8 @@ categories: blog
 I've been following two exceedingly good channels in YouTube: [Fitness Blender](https://www.youtube.com/channel/UCiP6wD_tYlYLYh3agzbByWQ) and [Athlean-X](https://www.youtube.com/user/JDCav24). Classic example that will put you out of breath in a jiffy:
 
 {% include embed-youtube.html videoId="JWy2-Dz7vJo" %}
-<blockquote>
-Tech note: first usage of partial <code>include</code> in Jekyll - a nice wrapper for embedded YouTube videos that fills viewport's width.
-</blockquote>
 
+> Tech note: first usage of partial <code>include</code> in Jekyll - a nice wrapper for embedded YouTube videos that fills viewport's width.
 
 Jeff from Athlean-X has given some very thourough explanations about postures and his understanding of muscles is exceptional, highly recommended.
 

@@ -6,9 +6,8 @@ categories: blog
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/29404761328/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/919/29404761328_533591f832_o.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<blockquote>
-A phone picture, but a good one.
-</blockquote>
+
+> phone picture, but a good one.
 
 Feeling quite bad in the last couple of days, sore throat etc. Actually, I don't recall feeling REALLY good & vibrant in the last years, since the first child was born. Funny thing is, during the only two occasions I could really relax in a kid-free environment thanks to some ultra-expensive pampering vacation organized by a wealthy workplace, I was terribly sick.
 

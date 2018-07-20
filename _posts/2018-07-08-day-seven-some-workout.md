@@ -6,9 +6,8 @@ categories: blog
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/29401335818/in/album-72157698793520715/" title="Untitled"><img src="https://farm2.staticflickr.com/1761/29401335818_2b10e99164_o.jpg" alt="Iceland's Troll Rock"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<blockquote>
-Troll turned into stone or drinking Rhino? I'll vote for the Rhino.
-</blockquote>
+
+> Troll turned into stone or drinking Rhino? I'll vote for the Rhino.
 
 Finally got some workout yesterday. Collapsed after 15 minutes but at least got some nice stretches. It still amazes me how easily I get sore muscles from core workout - is my core THAT weak (yup, probably it is).
 
