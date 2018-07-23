@@ -20,7 +20,7 @@ It all started with a missing feeling of hunger in the evening, which was an une
 ---
 
 <br/>
-Shocking, isn't it? Again, simple methodology: 200ml of 3% milk (constant across cereal types) = 120 calories. Weight of ingredients vary between the light Cornflakes that easily fill up the bowl and the heavier Granola / Oatmeal. Just to compare, a plain simple 500ml beer (the reference), which by all means quiet down even the worst of hungers, is worth 210 calories. What about swallowing 1500ml of beer in one gulp?!
+Shocking, isn't it? Again, simple methodology: 200ml of 3% milk (consistant across cereal types) = 120 calories. Weight of ingredients vary between the light Cornflakes that easily fill up the bowl and the heavier Granola / Oatmeal. Just to compare, a plain simple 500ml beer (the reference), which by all means quiet down even the worst of hungers, is worth 210 calories. What about swallowing 1500ml of beer in one gulp?!
 
 Among other things, this plain-dead-simple check is yet anothera affirmation that the term "beer belly" is utterly false. One can drink beer all day long without gaining weight, the (quite severe and unnecessary) intoxication will get him first.
 
