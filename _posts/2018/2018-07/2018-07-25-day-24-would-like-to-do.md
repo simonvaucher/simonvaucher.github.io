@@ -5,6 +5,8 @@ date:   2018-07-25 08:00:00 +0200
 categories: blog
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/41461506110/" title="Untitled"><img src="https://farm2.staticflickr.com/1830/41461506110_db571f7e56_h.jpg" alt="Nice catch"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Actually, some of the things in the following list have been done, but it would be nice to re-do a second, improved run.
 
 - [ ] Soap making: second batch with tougher bars
