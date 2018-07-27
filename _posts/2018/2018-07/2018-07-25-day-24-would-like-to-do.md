@@ -15,7 +15,10 @@ Actually, some of the things in the following list have been done, but it would 
 - [ ] Iceland! I would also settle with a greek island, though
 - [ ] Trestle oak table for the kitchen: I have all the material
 - [ ] Complete SYP bookshelves project
+- [ ] [Fun woodcarving](https://youtu.be/AlIr95-ZlCc)
 - [ ] Less relapses
+- [ ] Convert grandma's recording and upload for everyone to enjoy
+- [ ] Refinish mom's coffee table with proper Danish soap (original finish)
 - [ ] Music: Got material, no inspiration
 
 Actually, that music topic is interesting. I could compose in the past electronic music without any vocal, but that has switched - I just cannot for the life of me think of some music that just stands alone, per se, it has to have some extra-musical meaning. 
