@@ -4,11 +4,14 @@
  */
 
 .back-to-top {
-    display: block;
     text-align: right;
 
     @include media-query($on-palm) {
         text-align: center;
+    }
+
+    a {
+       display: inline;
     }
 }
 
