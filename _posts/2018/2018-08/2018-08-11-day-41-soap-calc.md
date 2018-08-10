@@ -3,6 +3,7 @@ layout: post
 title:  "Day 41 - ultimate soap calculator"
 date:   2018-08-11 08:00:00 +0200
 categories: blog
+tags: soap site
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/23773445494/" title="Untitled"><img src="https://farm2.staticflickr.com/1553/23773445494_7d437f2f5a_k.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -17,3 +18,6 @@ I have two personal favorites:
 2. Random mix of about 6-7 oil types, including the base oils which are found about everywhere: Palm, coconut and olive (unrefined). Other soaps which included a higher ratio softer oils like avocado / almonds turned out either too soft or rancid.
 
 I also encountered a big difference in terms of hardness and durability between cold process and hot process - the latter being very stable for years - but it may be unrelated and due to other factors.
+
+### Site updates
+- Added tags for future usage, like search and categorizations. For some reasons, the category thing in `Jekyll` means another thing from what I had envisioned, but that's ok - I'll be using tags anyway.

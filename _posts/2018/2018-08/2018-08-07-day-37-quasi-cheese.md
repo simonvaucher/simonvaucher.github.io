@@ -3,6 +3,7 @@ layout: post
 title:  "Day 37 - cheesy hobby"
 date:   2018-08-07 08:00:00 +0200
 categories: blog
+tags: cheese
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/28974789197/in/dateposted/" title="Untitled"><img src="https://farm1.staticflickr.com/936/28974789197_af4c2e5820_k.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
