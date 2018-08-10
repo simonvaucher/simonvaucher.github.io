@@ -25,4 +25,7 @@ As a first step, it may be wise to find the limits of this method, e.g. for how 
 - [ ] Omit yoghourt
 - [ ] Infect with blue/white mold
 - [ ] Wash regularly with brine etc.
+- [ ] Oil wash
+- [ ] Wine wash
+- [ ] Incorporate herbs (sage/thyme)
 - [ ] Give up and buy rennet / calcium chloride / mesophylic culture / a goat
