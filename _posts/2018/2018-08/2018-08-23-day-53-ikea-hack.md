@@ -3,7 +3,7 @@ layout: post
 title:  "Day 53 - IKEA hack"
 date:   2018-08-23 08:00:00 +0200
 categories: blog
-tags: updates
+tags: ikea woodworking finish
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/137491954@N07/43266073354/in/photostream/" title="Untitled"><img src="https://farm2.staticflickr.com/1799/43266073354_c7521f98a6_k.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
